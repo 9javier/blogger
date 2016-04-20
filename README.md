@@ -1,6 +1,6 @@
 ## By Javier Gomez Felix
 
-## USUARIOS DEFAULT 
+## USUARIOS DEFAULTS 
 Estas crendenciales se pueden utilizar para entrar a la app.
 
 email: nikejavis@gmail.com
