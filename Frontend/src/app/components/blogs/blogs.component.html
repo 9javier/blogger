@@ -1,0 +1,18 @@
+<h1>Blogs del día</h1>
+<div class="new-blog">
+    <NewBlogComponent (blog)="refresh($event)" *ngIf="newBlogActive">
+
+    </NewBlogComponent>
+</div>
+<div class="content-blogs">
+    <div>
+        <div class="item-blog" *ngFor="let blog of dataSource">
+            <BlogItemComponent 
+                [author]="blog.author" 
+                [content]="blog.content" 
+                [datePost]="blog.date">
+            </BlogItemComponent>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,19 @@
+.new-blog-content{
+    width: 60%;
+    background-color:  #FAFCFC;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+textarea{
+    width: 85%;
+}
+.mat-card-actions, .mat-card-subtitle, .mat-card-content {
+    display: block;
+    margin-bottom: 1px;
+}
+.mat-card-title{
+    font-size: 15px;
+}

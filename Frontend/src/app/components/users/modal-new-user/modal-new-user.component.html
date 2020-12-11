@@ -1,0 +1,46 @@
+<div class="user-modal">
+  <div>
+    <h1 mat-dialog-title>Nuevo Usuario</h1>
+    <div mat-dialog-content>
+      <p>Nombre</p>
+      <mat-form-field>
+        <mat-label>Ejemplo: Javier</mat-label>
+        <input matInput [(ngModel)]="user">
+      </mat-form-field>
+      <p>Email</p>
+      <mat-form-field>
+        <mat-label>Eje:javi@example.com</mat-label>
+        <input type="email" matInput [(ngModel)]="email">
+      </mat-form-field>
+      
+      <p>Password</p>
+      <mat-form-field>
+        <mat-label>******</mat-label>
+        <input type="password" matInput [(ngModel)]="password">
+      </mat-form-field>
+      <p>Rol de Usuario</p>
+      
+      <mat-form-field>
+        <mat-label>Selecciona un rol</mat-label>
+        <mat-select [(ngModel)]="rolUser">
+          <mat-option *ngFor="let rol of selectedRoles" [value]="rol.id">{{ rol.description }}</mat-option>
+        </mat-select>
+      </mat-form-field>
+
+      <p>Departamento</p>
+      <mat-form-field>
+        <mat-label>Selecciona un dept</mat-label>
+        <mat-select [(ngModel)]="departament" >
+          <mat-option *ngFor="let dept of selectedDept" [value]="dept.id">{{ dept.name }}</mat-option>
+        </mat-select>
+      </mat-form-field>
+    
+    </div>
+    <div mat-dialog-actions>
+      <button mat-button (click)="onNoClick()">Cancelar</button>
+      <button mat-button (click)="validateFormUser()">Aceptar</button>
+    </div>
+  </div>
+
+
+</div>

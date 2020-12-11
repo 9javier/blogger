@@ -1,0 +1,18 @@
+<mat-card class="blog-content">
+    <mat-card-header>
+      <div mat-card-avatar>
+        <mat-icon class="avatar-icon">account_circle</mat-icon> 
+      </div>
+      <mat-card-title>{{ author}}</mat-card-title>
+      <p>{{ datePost | date: 'dd/MM/yyyy' }}</p>
+    </mat-card-header>
+    <hr class="line-header">
+    <mat-card-content>
+    
+  
+      <label>{{ content }}</label> 
+        
+    </mat-card-content>
+    <mat-card-actions class="mat-actions">
+    </mat-card-actions>
+</mat-card>
