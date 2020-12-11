@@ -1,0 +1,38 @@
+[{
+  "_id": "dee998e5-72be-4e65-821c-7015f2ef5e56",
+  "username": "Flor",
+  "email": "flor@gmail.com",
+  "verificationToken": "1",
+  "id_departament": "5fcd9377810e240c205f2a01",
+  "id_role": "5fcaf343c159954d30fd8cdd"
+},{
+  "_id": "bf427027-73ad-42a5-906f-df2959bc307a",
+  "username": "Javier Gomez",
+  "email": "nikejavis@gmail.com",
+  "id_role": {
+    "$oid": "5fcd8ee65dd0950bb42d9e6c"
+  },
+  "id_departament": {
+    "$oid": "5fcd8f4e5dd0950bb42d9e6d"
+  }
+},{
+  "_id": "48ed81f2-2a9a-4b30-84b3-f0f31d0ec134",
+  "username": "jose",
+  "email": "jose@gmail.com",
+  "id_departament": {
+    "$oid": "5fcd9377810e240c205f2a01"
+  },
+  "id_role": {
+    "$oid": "5fcd8ee65dd0950bb42d9e6c"
+  }
+},{
+  "_id": "2f3653f3-03ea-4b7f-a330-96fc61309b05",
+  "username": "Messi",
+  "email": "messi@gmail.com",
+  "id_departament": {
+    "$oid": "5fcd8f4e5dd0950bb42d9e6d"
+  },
+  "id_role": {
+    "$oid": "5fcaf343c159954d30fd8cdd"
+  }
+}]

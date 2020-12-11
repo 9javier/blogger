@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "5fcd8f4e5dd0950bb42d9e6d"
+  },
+  "name": "Recursos Humanos",
+  "additionalProp1": {},
+  "type": 2
+},{
+  "_id": {
+    "$oid": "5fcd9377810e240c205f2a01"
+  },
+  "name": "Administrativo",
+  "type": 1,
+  "additionalProp1": {}
+}]

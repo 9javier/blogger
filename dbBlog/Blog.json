@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "5fcf02816403192198d63df4"
+  },
+  "date": {
+    "$date": "2020-12-07T04:33:55.606Z"
+  },
+  "author": "Jose",
+  "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "id_user": "bf427027-73ad-42a5-906f-df2959bc307a",
+  "id_departament": {
+    "$oid": "5fcd9377810e240c205f2a01"
+  },
+  "additionalProp1": {}
+},{
+  "_id": {
+    "$oid": "5fcf1b6d0cfd35508c04a6c1"
+  },
+  "date": {
+    "$date": "2020-12-07T04:33:55.606Z"
+  },
+  "author": "Jose",
+  "content": "La investigación y desarrollo en la industria biotecnológica puede mejorar y transformarse mediante el uso de tecnología. Las oportunidades se encuentran en el perfeccionamiento de los cultivos, medicamentos, alimentos y medio ambiente. En nuestro país existen alrededor de 406 empresas dedicadas a la biotecnología que nos fortalecen como uno de los grandes proveedores de este tipo de productos. ",
+  "id_user": "bf427027-73ad-42a5-906f-df2959bc307a",
+  "id_departament": {
+    "$oid": "5fcd9377810e240c205f2a01"
+  },
+  "additionalProp1": {}
+},{
+  "_id": {
+    "$oid": "5fcf1d2a24742e46d09b727d"
+  },
+  "date": {
+    "$date": "2020-12-07T06:28:58.070Z"
+  },
+  "author": "Javier Gomez",
+  "content": "Está demostrado que existe una relación positiva entre la generación y explotación del conocimiento y el desarrollo económico de los países, por lo que en México existe un gran interés por desarrollar una mejor capacidad de innovar, es decir, de “generar nuevos productos, diseños, procesos, servicios, métodos u organizaciones o de incrementar valor a los existentes”. Y con ello lograr ventajas competitivas en la economía, que le permita alcanzar un crecimiento económico sustentable.",
+  "id_user": "bf427027-73ad-42a5-906f-df2959bc307a",
+  "id_departament": {
+    "$oid": "5fcd8f4e5dd0950bb42d9e6d"
+  }
+},{
+  "_id": {
+    "$oid": "5fcf30fa81f86e35aca1371b"
+  },
+  "date": {
+    "$date": "2020-12-07T07:53:29.994Z"
+  },
+  "author": "Javier Gomez",
+  "content": "La razón por la que escribí este artículo es porque ninguno de los artículos ya publicados –aunque contienen grandes ideas– van en profundidad para un práctico desarrollador de front-end para decidir cuál puede satisfacer sus necesidades.\nEn este artículo, aprenderás cómo Angular y React apuntan a resolver problemas front-end similares aunque con filosofías muy diferentes, y si elegir uno o el otro es simplemente una cuestión de preferencia personal. Para compararlos, vamos a construir la misma aplicación dos veces, una vez con Angular y luego otra vez con React.",
+  "id_user": "bf427027-73ad-42a5-906f-df2959bc307a",
+  "id_departament": {
+    "$oid": "5fcd8f4e5dd0950bb42d9e6d"
+  }
+}]

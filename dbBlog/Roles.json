@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "5fcaf343c159954d30fd8cdd"
+  },
+  "type": 1,
+  "additionalProp1": {},
+  "description": "Administrador"
+},{
+  "_id": {
+    "$oid": "5fcd8ee65dd0950bb42d9e6c"
+  },
+  "type": 2,
+  "additionalProp1": {},
+  "description": "Blogger"
+}]

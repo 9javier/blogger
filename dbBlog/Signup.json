@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "5fcc3b7592c3d039889ef5d6"
+  },
+  "email": "nike",
+  "password": "123",
+  "id_user": "dasd4sa5d45",
+  "additionalProp1": {}
+},{
+  "_id": {
+    "$oid": "5fcc3c1a92c3d039889ef5d7"
+  },
+  "email": "nikes",
+  "password": "1234",
+  "id_user": "dasdas487",
+  "additionalProp1": {}
+},{
+  "_id": {
+    "$oid": "5fcc3ec092c3d039889ef5d8"
+  },
+  "email": "nike",
+  "password": "1234",
+  "id_user": "dasd4sa5d45"
+},{
+  "_id": {
+    "$oid": "5fcc417d1439d60c78e19f76"
+  },
+  "email": "javis",
+  "password": "1234",
+  "id_user": "dad465465das",
+  "additionalProp1": {}
+},{
+  "_id": {
+    "$oid": "5fcc426d1439d60c78e19f77"
+  },
+  "email": "javis",
+  "password": "1234",
+  "id_user": "dad465465das",
+  "additionalProp1": {}
+}]
